@@ -121,12 +121,19 @@
 }
 
 .playlist {
-  margin: 24px;
+  margin: -4px;
 }
 
 .playlist #greeting {
   color: #fff;
   font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+
+.playlist h2 {
+  color: #fff;
+  font-size: 20px;
   font-weight: 700;
   margin-bottom: 48px;
 }
